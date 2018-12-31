@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Garage Door Status</string>
+    <string name="currentStatus">Current Status</string>
+    <string name="pastLogs">Log</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="third_activity">Third Activity</string>
+    <string name="text_header2">Placeholder status</string>
+    <string name="placeholder_status">Placeholder status</string>
+    <string name="placeholder_logs">Placeholder logs</string>
+</resources>
