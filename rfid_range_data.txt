@@ -4,4 +4,4 @@ Module: RFID-RC522 Funduino
 Test Date: December 31, 2018
 Range Max: 3cm
 Range Min: 0cm
-Note: Same in both side of atenna
+Note: Same on both side of antenna
